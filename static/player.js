@@ -29,21 +29,162 @@ function createTrackItem(index,name,duration){
   }
 
   var listAudio = [
+
+    
+
     {
-      name:"Artist 1 - audio 1",
-      file:"./static/audio/azeudemq8fxdc4qvyxodxdw==.mp3",
-      duration:"08:47"
+      name:"01 - intro-to-the-most-evolved.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/01 - intro-to-the-most-evolved.mp3",
+      // duration:""
     },
+
+
     {
-      name:"Artist 2 - audio 2",
-      file:"./static/audio/johnhclarke2-08.mp3",
-      duration:"05:53"
+      name:"02 - the-most-evolved.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/02 - the-most-evolved.mp3",
+      // duration:""
     },
+
+
     {
-      name:"Artist 3 - audio 3",
-      file:"./static/audio/johnhclarke2-08.mp3",
-      duration:"00:27"
-    }
+      name:"03 - intro-to-aguila-cosmica.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/03 - intro-to-aguila-cosmica.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"04 - aguila-cosmica.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/04 - aguila-cosmica.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"05 - intro-to-un-tren.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/05 - intro-to-un-tren.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"06 - un-tren.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/06 - un-tren.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"07 - to-azul.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/07 - to-azul.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"08 - azul.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/08 - azul.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"09 - signal-urchin-rostrom.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/09 - signal-urchin-rostrom.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"10 - malaguena-anonymous.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/10 - malaguena-anonymous.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"11 - carnivalito-stover.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/11 - carnivalito-stover.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"12 - study-no-9-carcassi.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/12 - study-no-9-carcassi.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"13 - study-no-18-carcassi.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/13 - study-no-18-carcassi.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"14 - cavatina-meyers.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/14 - cavatina-meyers.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"15 - recuerdos-de-la-alhambra-tarrega.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/15 - recuerdos-de-la-alhambra-tarrega.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"16 - moonlight-sonata-beethoven.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/16 - moonlight-sonata-beethoven.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"17 - agua.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/17 - agua.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"18 - tierra.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/18 - tierra.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"19 - fuego.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/19 - fuego.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"20 - cielo.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/20 - cielo.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"21 - alma.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/21 - alma.mp3",
+      // duration:""
+    },
+
+
+    {
+      name:"cover.jpg",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/cover.jpg",
+      // duration:""
+    },
+
   ]
 
   for (var i = 0; i < listAudio.length; i++) {

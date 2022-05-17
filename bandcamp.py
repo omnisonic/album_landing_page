@@ -2,6 +2,17 @@ from bs4 import BeautifulSoup
 import json
 from py_bandcamp.session import SESSION as requests
 from py_bandcamp.utils import extract_ldjson_blob, get_props, extract_blob
+from jinja2 import Environment, FileSystemLoader
+
+#### jinja
+
+
+file_loader = FileSystemLoader('templates')
+env = Environment(loader=file_loader)
+
+
+
+##### jinja added by jhc
 
 
 class BandCamper:
@@ -694,7 +705,14 @@ print(f'cover image:  {album.data["image"]}')
 # print(album.artist)
 # print(album.releases)
 # print(album.comments)
-print([t.data['title'] for t in album.tracks])
+# print([t.data['title'] for t in album.tracks])
+
+title = [t.data['title'] for t in album.tracks]
+
+template = env.get_template('player.js')
+
+output = template.render(title=title)
+print(output)
 
 # tag_list = BandCamper.tags()
 # tags = BandCamper.search_tag('black-metal')
