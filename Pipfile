@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 py-bandcamp = "*"
 bandcamp-downloader = "*"
+jinja2 = "*"
 
 [dev-packages]
 
