@@ -29,159 +29,130 @@ function createTrackItem(index,name,duration){
   }
 
   var listAudio = [
-
     
-
     {
-      name:"01 - intro-to-the-most-evolved.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/01 - intro-to-the-most-evolved.mp3",
+      name:"01 Intro To The Most Evolved.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/01 Intro To The Most Evolved.mp3",
       // duration:""
     },
 
-
     {
-      name:"02 - the-most-evolved.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/02 - the-most-evolved.mp3",
+      name:"02 The Most Evolved.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/02 The Most Evolved.mp3",
       // duration:""
     },
 
-
     {
-      name:"03 - intro-to-aguila-cosmica.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/03 - intro-to-aguila-cosmica.mp3",
+      name:"03 Intro To Aguila Cosmica.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/03 Intro To Aguila Cosmica.mp3",
       // duration:""
     },
 
-
     {
-      name:"04 - aguila-cosmica.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/04 - aguila-cosmica.mp3",
+      name:"04 Aguila Cosmica.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/04 Aguila Cosmica.mp3",
       // duration:""
     },
 
-
     {
-      name:"05 - intro-to-un-tren.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/05 - intro-to-un-tren.mp3",
+      name:"05 Intro To Un Tren.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/05 Intro To Un Tren.mp3",
       // duration:""
     },
 
-
     {
-      name:"06 - un-tren.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/06 - un-tren.mp3",
+      name:"06 Un Tren.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/06 Un Tren.mp3",
       // duration:""
     },
 
-
     {
-      name:"07 - to-azul.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/07 - to-azul.mp3",
+      name:"07 To Azul.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/07 To Azul.mp3",
       // duration:""
     },
 
-
     {
-      name:"08 - azul.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/08 - azul.mp3",
+      name:"08 Azul.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/08 Azul.mp3",
       // duration:""
     },
 
-
     {
-      name:"09 - signal-urchin-rostrom.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/09 - signal-urchin-rostrom.mp3",
+      name:"09 Signal Urchin Rostrom.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/09 Signal Urchin Rostrom.mp3",
       // duration:""
     },
 
-
     {
-      name:"10 - malaguena-anonymous.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/10 - malaguena-anonymous.mp3",
+      name:"10 Malaguena - Anonymous.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/10 Malaguena - Anonymous.mp3",
       // duration:""
     },
 
-
     {
-      name:"11 - carnivalito-stover.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/11 - carnivalito-stover.mp3",
+      name:"11 Carnivalito - Stover.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/11 Carnivalito - Stover.mp3",
       // duration:""
     },
 
-
     {
-      name:"12 - study-no-9-carcassi.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/12 - study-no-9-carcassi.mp3",
+      name:"12 Study No. 9 - Carcassi.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/12 Study No. 9 - Carcassi.mp3",
       // duration:""
     },
 
-
     {
-      name:"13 - study-no-18-carcassi.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/13 - study-no-18-carcassi.mp3",
+      name:"13 Study No. 18 - Carcassi.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/13 Study No. 18 - Carcassi.mp3",
       // duration:""
     },
 
-
     {
-      name:"14 - cavatina-meyers.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/14 - cavatina-meyers.mp3",
+      name:"14 Cavatina - Meyers.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/14 Cavatina - Meyers.mp3",
       // duration:""
     },
 
-
     {
-      name:"15 - recuerdos-de-la-alhambra-tarrega.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/15 - recuerdos-de-la-alhambra-tarrega.mp3",
+      name:"15 Recuerdos De La Alhambra - Tarrega.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/15 Recuerdos De La Alhambra - Tarrega.mp3",
       // duration:""
     },
 
-
     {
-      name:"16 - moonlight-sonata-beethoven.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/16 - moonlight-sonata-beethoven.mp3",
+      name:"16 Moonlight Sonata - Beethoven.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/16 Moonlight Sonata - Beethoven.mp3",
       // duration:""
     },
 
-
     {
-      name:"17 - agua.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/17 - agua.mp3",
+      name:"17 Agua.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/17 Agua.mp3",
       // duration:""
     },
 
-
     {
-      name:"18 - tierra.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/18 - tierra.mp3",
+      name:"18 Tierra.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/18 Tierra.mp3",
       // duration:""
     },
 
-
     {
-      name:"19 - fuego.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/19 - fuego.mp3",
+      name:"19 Fuego.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/19 Fuego.mp3",
       // duration:""
     },
 
-
     {
-      name:"20 - cielo.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/20 - cielo.mp3",
+      name:"20 Cielo.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/20 Cielo.mp3",
       // duration:""
     },
 
-
     {
-      name:"21 - alma.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/21 - alma.mp3",
-      // duration:""
-    },
-
-
-    {
-      name:"cover.jpg",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-full-album/cover.jpg",
+      name:"21 Alma.mp3",
+      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/21 Alma.mp3",
       // duration:""
     },
 

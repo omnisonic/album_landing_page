@@ -1,13 +1,13 @@
 from jinja2 import Environment, FileSystemLoader
 import os
 
-#### jinja
+#### jinja  this inserts paths for the audio into the player.js
 
 
 file_loader = FileSystemLoader('templates')
 env = Environment(loader=file_loader)
 
-path = './static/audio/john-h-clarke/acoustik-guitar-full-album'
+path = './static/audio/john-h-clarke/acoustik-guitar-preview'
 files = os.listdir(path)
 files.sort()
 print(files)
