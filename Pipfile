@@ -11,6 +11,7 @@ pydub = "*"
 imageio-ffmpeg = "*"
 python-ffmpeg = "*"
 ffmpeg-python = "*"
+boto3 = "*"
 
 [dev-packages]
 

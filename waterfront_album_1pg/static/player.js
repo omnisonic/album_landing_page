@@ -31,128 +31,86 @@ function createTrackItem(index,name,duration){
   var listAudio = [
     
     {
-      name:"01 Intro To The Most Evolved.mp3",
-      file:"/static/audio/acoustik-guitar-preview/01 Intro To The Most Evolved.mp3",
+      name:"01 Asturias - Albeniz - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/01 Asturias - Albeniz - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"02 The Most Evolved.mp3",
-      file:"./static/audio/acoustik-guitar-preview/02 The Most Evolved.mp3",
+      name:"02 Prelude No. 1 (Well-Tempered Clavier by Bach) - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/02 Prelude No. 1 (Well-Tempered Clavier by Bach) - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"03 Intro To Aguila Cosmica.mp3",
-      file:"./static/audio/acoustik-guitar-preview/03 Intro To Aguila Cosmica.mp3",
+      name:"03 Lagrima - (Tarrega) - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/03 Lagrima - (Tarrega) - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"04 Aguila Cosmica.mp3",
-      file:"./static/audio/acoustik-guitar-preview/04 Aguila Cosmica.mp3",
+      name:"04 He's a Pirate - (Pirates of the Carribean) - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/04 He's a Pirate - (Pirates of the Carribean) - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"05 Intro To Un Tren.mp3",
-      file:"./static/audio/acoustik-guitar-preview/05 Intro To Un Tren.mp3",
+      name:"05 Back to Black (Winehouse) - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/05 Back to Black (Winehouse) - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"06 Un Tren.mp3",
-      file:"./static/audio/acoustik-guitar-preview/06 Un Tren.mp3",
+      name:"06 Every Breath You Take (by The Police) - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/06 Every Breath You Take (by The Police) - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"07 To Azul.mp3",
-      file:"./static/audio/acoustik-guitar-preview/07 To Azul.mp3",
+      name:"07 Hotel California (The Eagles) - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/07 Hotel California (The Eagles) - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"08 Azul.mp3",
-      file:"./static/audio/acoustik-guitar-preview/08 Azul.mp3",
+      name:"08 I Just Called to Say I Love You (Stevie Wonder) - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/08 I Just Called to Say I Love You (Stevie Wonder) - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"09 Signal Urchin Rostrom.mp3",
-      file:"./static/audio/acoustik-guitar-preview/09 Signal Urchin Rostrom.mp3",
+      name:"09 My Way (Sinatra) - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/09 My Way (Sinatra) - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"10 Malaguena - Anonymous.mp3",
-      file:"./static/audio/acoustik-guitar-preview/10 Malaguena - Anonymous.mp3",
+      name:"10 Wish You Were Here (Pink Floyd) - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/10 Wish You Were Here (Pink Floyd) - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"11 Carnivalito - Stover.mp3",
-      file:"./static/audio/acoustik-guitar-preview/11 Carnivalito - Stover.mp3",
+      name:"11 Cello Suite No. 1, Prelude (Bach) - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/11 Cello Suite No. 1, Prelude (Bach) - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"12 Study No. 9 - Carcassi.mp3",
-      file:"./static/audio/acoustik-guitar-preview/12 Study No. 9 - Carcassi.mp3",
+      name:"12 Lute Prelude BWV 999 (Bach) - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/12 Lute Prelude BWV 999 (Bach) - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"13 Study No. 18 - Carcassi.mp3",
-      file:"./static/audio/acoustik-guitar-preview/13 Study No. 18 - Carcassi.mp3",
+      name:"13 Spanish Romance (Anounymous) - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/13 Spanish Romance (Anounymous) - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"14 Cavatina - Meyers.mp3",
-      file:"./static/audio/acoustik-guitar-preview/14 Cavatina - Meyers.mp3",
-      // duration:""
-    },
-
-    {
-      name:"15 Recuerdos De La Alhambra - Tarrega.mp3",
-      file:"./static/audio/acoustik-guitar-preview/15 Recuerdos De La Alhambra - Tarrega.mp3",
-      // duration:""
-    },
-
-    {
-      name:"16 Moonlight Sonata - Beethoven.mp3",
-      file:"./static/audio/acoustik-guitar-preview/16 Moonlight Sonata - Beethoven.mp3",
-      // duration:""
-    },
-
-    {
-      name:"17 Agua.mp3",
-      file:"./static/audio/acoustik-guitar-preview/17 Agua.mp3",
-      // duration:""
-    },
-
-    {
-      name:"18 Tierra.mp3",
-      file:"./static/audio/acoustik-guitar-preview/18 Tierra.mp3",
-      // duration:""
-    },
-
-    {
-      name:"19 Fuego.mp3",
-      file:"./static/audio/acoustik-guitar-preview/19 Fuego.mp3",
-      // duration:""
-    },
-
-    {
-      name:"20 Cielo.mp3",
-      file:"./static/audio/acoustik-guitar-preview/20 Cielo.mp3",
-      // duration:""
-    },
-
-    {
-      name:"21 Alma.mp3",
-      file:"./static/audio/acoustik-guitar-preview/21 Alma.mp3",
+      name:"14 Watermark (Enya) - Waterfront - John H. Clarke.mp3",
+      file:"/static/audio/waterfront-preview/14 Watermark (Enya) - Waterfront - John H. Clarke.mp3",
       // duration:""
     },
 
