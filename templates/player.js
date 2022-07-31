@@ -32,7 +32,7 @@ function createTrackItem(index,name,duration){
     {% for title in title %}
     {
       name:"{{ title }}",
-      file:"{{ path }}/{{ title }}",
+      file:"./{{ path }}/{{ title }}",
       // duration:""
     },
 {% endfor %}

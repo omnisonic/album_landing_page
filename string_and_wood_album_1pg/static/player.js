@@ -32,109 +32,109 @@ function createTrackItem(index,name,duration){
     
     {
       name:"01 Pursuit of the Cygnus Thief - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/01 Pursuit of the Cygnus Thief - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/01 Pursuit of the Cygnus Thief - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"02 Interlude I - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/02 Interlude I - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/02 Interlude I - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"03 Friends - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/03 Friends - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/03 Friends - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"04 Interlude II - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/04 Interlude II - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/04 Interlude II - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"05 A Walk To The Lake - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/05 A Walk To The Lake - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/05 A Walk To The Lake - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"06 To Live - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/06 To Live - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/06 To Live - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"07 Interlude III - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/07 Interlude III - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/07 Interlude III - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"08 Fuerte - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/08 Fuerte - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/08 Fuerte - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"09 Interlude IV - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/09 Interlude IV - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/09 Interlude IV - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"10 Mosaic For Shadows - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/10 Mosaic For Shadows - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/10 Mosaic For Shadows - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"11 Interlude V - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/11 Interlude V - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/11 Interlude V - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"12 No Pretense - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/12 No Pretense - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/12 No Pretense - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"13 Interlude VI - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/13 Interlude VI - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/13 Interlude VI - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"14 Revolution - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/14 Revolution - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/14 Revolution - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"15 Interlude VII - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/15 Interlude VII - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/15 Interlude VII - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"16 Sentinel - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/16 Sentinel - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/16 Sentinel - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"17 Aurora Borealis - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/17 Aurora Borealis - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/17 Aurora Borealis - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
       name:"18 A Little Song - String and Wood - John H. Clarke.mp3",
-      file:"/string_and_wood_album_1pg/static/audio/18 A Little Song - String and Wood - John H. Clarke.mp3",
+      file:"./static/audio/18 A Little Song - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 

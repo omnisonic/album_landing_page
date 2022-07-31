@@ -4,11 +4,11 @@ import os
 # an album link source is: https://odesli.co/
 
 # input and output variables
-project_dir = '/string_and_wood_album_1pg'
+project_dir = './string_and_wood_album_1pg'
 
 html_output = './string_and_wood_album_1pg'
 js_output = f'./{project_dir}/static'
-audio_files = f'.{project_dir}/static/audio'
+audio_files = 'static/audio'
 
 
 #Variables for index template
@@ -27,7 +27,7 @@ env = Environment(loader=file_loader)
 
 path = audio_files  
 
-file_names = os.listdir(path)
+file_names = os.listdir(f'{project_dir}/{path}')
 file_names.remove('.DS_Store')
 
         
@@ -40,7 +40,7 @@ print(file_names)
 title = file_names # list object of audio track filenames
 template = env.get_template('player.js')
 
-output = template.render(title=title, path=path.strip('.')) # using .strip('.') to remove leading . from filename
+output = template.render(title=title, path=path) # using .strip() to remove from filename
 # print(output)
 
 f = open(f"{js_output}/player.js", "w")
