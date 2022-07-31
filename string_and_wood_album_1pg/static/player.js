@@ -31,128 +31,110 @@ function createTrackItem(index,name,duration){
   var listAudio = [
     
     {
-      name:"01 Intro To The Most Evolved.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/01 Intro To The Most Evolved.mp3",
+      name:"01 Pursuit of the Cygnus Thief - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/01 Pursuit of the Cygnus Thief - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"02 The Most Evolved.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/02 The Most Evolved.mp3",
+      name:"02 Interlude I - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/02 Interlude I - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"03 Intro To Aguila Cosmica.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/03 Intro To Aguila Cosmica.mp3",
+      name:"03 Friends - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/03 Friends - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"04 Aguila Cosmica.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/04 Aguila Cosmica.mp3",
+      name:"04 Interlude II - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/04 Interlude II - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"05 Intro To Un Tren.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/05 Intro To Un Tren.mp3",
+      name:"05 A Walk To The Lake - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/05 A Walk To The Lake - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"06 Un Tren.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/06 Un Tren.mp3",
+      name:"06 To Live - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/06 To Live - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"07 To Azul.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/07 To Azul.mp3",
+      name:"07 Interlude III - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/07 Interlude III - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"08 Azul.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/08 Azul.mp3",
+      name:"08 Fuerte - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/08 Fuerte - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"09 Signal Urchin Rostrom.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/09 Signal Urchin Rostrom.mp3",
+      name:"09 Interlude IV - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/09 Interlude IV - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"10 Malaguena - Anonymous.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/10 Malaguena - Anonymous.mp3",
+      name:"10 Mosaic For Shadows - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/10 Mosaic For Shadows - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"11 Carnivalito - Stover.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/11 Carnivalito - Stover.mp3",
+      name:"11 Interlude V - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/11 Interlude V - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"12 Study No. 9 - Carcassi.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/12 Study No. 9 - Carcassi.mp3",
+      name:"12 No Pretense - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/12 No Pretense - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"13 Study No. 18 - Carcassi.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/13 Study No. 18 - Carcassi.mp3",
+      name:"13 Interlude VI - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/13 Interlude VI - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"14 Cavatina - Meyers.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/14 Cavatina - Meyers.mp3",
+      name:"14 Revolution - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/14 Revolution - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"15 Recuerdos De La Alhambra - Tarrega.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/15 Recuerdos De La Alhambra - Tarrega.mp3",
+      name:"15 Interlude VII - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/15 Interlude VII - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"16 Moonlight Sonata - Beethoven.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/16 Moonlight Sonata - Beethoven.mp3",
+      name:"16 Sentinel - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/16 Sentinel - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"17 Agua.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/17 Agua.mp3",
+      name:"17 Aurora Borealis - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/17 Aurora Borealis - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
     {
-      name:"18 Tierra.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/18 Tierra.mp3",
-      // duration:""
-    },
-
-    {
-      name:"19 Fuego.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/19 Fuego.mp3",
-      // duration:""
-    },
-
-    {
-      name:"20 Cielo.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/20 Cielo.mp3",
-      // duration:""
-    },
-
-    {
-      name:"21 Alma.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/21 Alma.mp3",
+      name:"18 A Little Song - String and Wood - John H. Clarke.mp3",
+      file:"/string_and_wood_album_1pg/static/audio/18 A Little Song - String and Wood - John H. Clarke.mp3",
       // duration:""
     },
 
