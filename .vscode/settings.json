@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./trio_album_1pg"
+    ]
+}

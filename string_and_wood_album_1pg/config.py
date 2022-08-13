@@ -1,0 +1,7 @@
+Title = 'String and Wood - By John H. Clarke'
+Apple = 'https://geo.music.apple.com/us/album/_/455063415'
+Amazon = 'https://amazon.com/dp/B0019GLCD8'
+Pandora = 'https://www.pandora.com/AL:15147199'
+YouTubeMusic = 'https://music.youtube.com/playlist?list=OLAK5uy_kUvjXmAWYXp8acz1v8NA19egUnUUSWlzk'
+Bandcamp = 'https://johnhclarke.bandcamp.com/album/string-wood-full-album'
+Spotify = 'https://open.spotify.com/album/2Wx6nK8uk3B8wQOGIollBv'

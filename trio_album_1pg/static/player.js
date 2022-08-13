@@ -31,128 +31,68 @@ function createTrackItem(index,name,duration){
   var listAudio = [
     
     {
-      name:"01 Intro To The Most Evolved.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/01 Intro To The Most Evolved.mp3",
+      name:"01 Intangible - The John H. Clarke Trio.mp3",
+      file:"./static/audio/01 Intangible - The John H. Clarke Trio.mp3",
       // duration:""
     },
 
     {
-      name:"02 The Most Evolved.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/02 The Most Evolved.mp3",
+      name:"02 Fuerte - The John H. Clarke Trio.mp3",
+      file:"./static/audio/02 Fuerte - The John H. Clarke Trio.mp3",
       // duration:""
     },
 
     {
-      name:"03 Intro To Aguila Cosmica.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/03 Intro To Aguila Cosmica.mp3",
+      name:"03 Un Tren - The John H. Clarke Trio.mp3",
+      file:"./static/audio/03 Un Tren - The John H. Clarke Trio.mp3",
       // duration:""
     },
 
     {
-      name:"04 Aguila Cosmica.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/04 Aguila Cosmica.mp3",
+      name:"04 Revolution - The John H. Clarke Trio.mp3",
+      file:"./static/audio/04 Revolution - The John H. Clarke Trio.mp3",
       // duration:""
     },
 
     {
-      name:"05 Intro To Un Tren.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/05 Intro To Un Tren.mp3",
+      name:"05 Sentinel-Libertad - The John H. Clarke Trio.mp3",
+      file:"./static/audio/05 Sentinel-Libertad - The John H. Clarke Trio.mp3",
       // duration:""
     },
 
     {
-      name:"06 Un Tren.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/06 Un Tren.mp3",
+      name:"06 To Live - The John H. Clarke Trio.mp3",
+      file:"./static/audio/06 To Live - The John H. Clarke Trio.mp3",
       // duration:""
     },
 
     {
-      name:"07 To Azul.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/07 To Azul.mp3",
+      name:"07 Romance - The John H. Clarke Trio.mp3",
+      file:"./static/audio/07 Romance - The John H. Clarke Trio.mp3",
       // duration:""
     },
 
     {
-      name:"08 Azul.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/08 Azul.mp3",
+      name:"08 Tempestad (Juan Serrano) - The John H. Clarke Trio.mp3",
+      file:"./static/audio/08 Tempestad (Juan Serrano) - The John H. Clarke Trio.mp3",
       // duration:""
     },
 
     {
-      name:"09 Signal Urchin Rostrom.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/09 Signal Urchin Rostrom.mp3",
+      name:"09 Aguila Cosmica - The John H. Clarke Trio.mp3",
+      file:"./static/audio/09 Aguila Cosmica - The John H. Clarke Trio.mp3",
       // duration:""
     },
 
     {
-      name:"10 Malaguena - Anonymous.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/10 Malaguena - Anonymous.mp3",
+      name:"10 Azul - The John H. Clarke Trio.mp3",
+      file:"./static/audio/10 Azul - The John H. Clarke Trio.mp3",
       // duration:""
     },
 
     {
-      name:"11 Carnivalito - Stover.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/11 Carnivalito - Stover.mp3",
-      // duration:""
-    },
-
-    {
-      name:"12 Study No. 9 - Carcassi.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/12 Study No. 9 - Carcassi.mp3",
-      // duration:""
-    },
-
-    {
-      name:"13 Study No. 18 - Carcassi.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/13 Study No. 18 - Carcassi.mp3",
-      // duration:""
-    },
-
-    {
-      name:"14 Cavatina - Meyers.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/14 Cavatina - Meyers.mp3",
-      // duration:""
-    },
-
-    {
-      name:"15 Recuerdos De La Alhambra - Tarrega.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/15 Recuerdos De La Alhambra - Tarrega.mp3",
-      // duration:""
-    },
-
-    {
-      name:"16 Moonlight Sonata - Beethoven.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/16 Moonlight Sonata - Beethoven.mp3",
-      // duration:""
-    },
-
-    {
-      name:"17 Agua.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/17 Agua.mp3",
-      // duration:""
-    },
-
-    {
-      name:"18 Tierra.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/18 Tierra.mp3",
-      // duration:""
-    },
-
-    {
-      name:"19 Fuego.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/19 Fuego.mp3",
-      // duration:""
-    },
-
-    {
-      name:"20 Cielo.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/20 Cielo.mp3",
-      // duration:""
-    },
-
-    {
-      name:"21 Alma.mp3",
-      file:"./static/audio/john-h-clarke/acoustik-guitar-preview/21 Alma.mp3",
+      name:"11 The Most Evolved - The John H. Clarke Trio.mp3",
+      file:"./static/audio/11 The Most Evolved - The John H. Clarke Trio.mp3",
       // duration:""
     },
 
