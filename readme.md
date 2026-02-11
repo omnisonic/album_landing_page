@@ -1,5 +1,8 @@
 #Work in progress. Copy code at your own risk.  
 
+![Photo](images/screenshot-2026-02-10-at-3.07.33pm.webp)
+
+
 This Project makes a one page website for promoting recorded album.  It includes a music player , and links to the major music outlets such as apple music and Spotify.
 
 This project seeks to automate the process of adding track name , artwork and music , to the webpage.
